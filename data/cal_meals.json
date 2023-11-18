@@ -1,0 +1,68 @@
+{
+    "meals": [
+        {
+            "id": "meal-1",
+            "name": "Hamburger",
+            "nutritional_info": {
+                "calories": 600,
+                "price": 5
+            }
+        },
+        {
+            "id": "meal-2",
+            "name": "Cheese Burger",
+            "nutritional_info": {
+                "calories": 750,
+                "price": 7
+            }
+        },
+        {
+            "id": "meal-3",
+            "name": "Veggie Burger",
+            "nutritional_info": {
+                "calories": 400,
+                "price": 6
+            }
+        },
+        {
+            "id": "meal-4",
+            "name": "Vegan Burger",
+            "nutritional_info": {
+                "calories": 350,
+                "price": 6
+            }
+        },
+        {
+            "id": "meal-5",
+            "name": "Sweet Potatoes",
+            "nutritional_info": {
+                "calories": 230,
+                "price": 3
+            }
+        },
+        {
+            "id": "meal-6",
+            "name": "Salad",
+            "nutritional_info": {
+                "calories": 15,
+                "price": 4
+            }
+        },
+        {
+            "id": "meal-7",
+            "name": "Iced Tea",
+            "nutritional_info": {
+                "calories": 70,
+                "price": 2
+            }
+        },
+        {
+            "id": "meal-8",
+            "name": "Lemonade",
+            "nutritional_info": {
+                "calories": 90,
+                "price": 2
+            }
+        }
+    ]
+}
